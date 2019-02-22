@@ -4,5 +4,5 @@
 
 
 -   [abc](main/abc/i.md)
-    -   [efg](main/wigit/abc/efg/i.md)
-        -   [hij](main/wigit/abc/efg/hij/i.md)
+    -   [efg](main/abc/efg/i.md)
+        -   [hij](main/abc/efg/hij/i.md)
